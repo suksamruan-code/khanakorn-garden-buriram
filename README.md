@@ -1,6 +1,13 @@
-โคกหนองนา 4ไร่ 1งาน บุรีรัมย์ - Khanakorn Garden
-พื้นที่เกษตรผสมผสานตามศาสตร์พระราชา...
+# สวนคณากร บุรีรัมย์ - Suan Khanakorn
 
-ที่ตั้ง: บุรีรัมย์
-พื้นที่: 4 ไร่ 1 งาน
-กิจกรรม: ...
+เว็บไซต์ทางการ: https://khanakorn-buriram.netlify.app
+
+## ระบบ v10 Final
+- ภาพจริง: images/real-aerial.png (ภาพมุมสูงวันขุด)
+- ภาพแบบจำลอง: images/dream-model.jpg (ภาพอนาคต)
+
+## วิธี Deploy ไป Netlify แบบ GitHub Auto
+1. สร้าง repo ใหม่ชื่อ khanakorn-buriram บน GitHub
+2. อัปโหลดไฟล์ทั้งหมดนี้
+3. ไป Netlify > Add new site > Import from GitHub > เลือก repo นี้
+4. Build command: (ว่างไว้) Publish directory: /
